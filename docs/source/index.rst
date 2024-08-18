@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Đất Việt Travel - datvietravel.com.vn - Cung cấp dịch vụ du lich toàn quốc và quốc tế
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Đất Việt Travel <https://datvietravel.com.vn/>`_ cung cấp dịch vụ du lịch trên toàn quốc và quốc tế. Đất Việt Travel cung cấp các dịch vụ đào tạo Team Building và quản lý nhân sự cấp cao với đội ngũ giảng viên giàu kinh nghiệm. Đối với doanh nghiệp, Đất Việt Travel là đối tác đáng tin cậy với nhân viên chuyên nghiệp và tận tâm. Đất Việt Travel nhận hợp tác cùng các đối tác doanh nghiệp trong và ngoài nước.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: Hoàng Văn Thụ, Phú Nhuận, Hồ Chí Minh 
 
-   This project is under active development.
+Hotline (028) 1800 1221 
 
-Contents
---------
+Website: https://datvietravel.com.vn/
 
-.. toctree::
+Gmail: datvietravel.infor@gmail.com 
 
-   usage
-   api
+#datvietravel #dulichviet #tourdulich #giatourdulich #dulichtrongnuoc #dulichquocte 
